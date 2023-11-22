@@ -1,7 +1,7 @@
 # TDA(Topological data analysis)
 
 
-
+## [Reference]
 
 
 - wikipedia  
@@ -19,7 +19,8 @@ https://velog.io/@shlee0125/TDA-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%9C%84%E
 
 
 
-
+- [TDA] 숫자들을 기하학적으로 분석해보자. 근데 이제 호몰로지를 결들인....
+https://dacon.io/en/codeshare/3733   
 
 
 #### [Youtube]
