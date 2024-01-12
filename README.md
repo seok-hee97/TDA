@@ -1,5 +1,23 @@
 # TDA(Topological data analysis)
 
+# TDA-intro
+
+### PNU_TDA_TUTORIAL.   
+
+- https://github.com/SHlee-TDA/PNU_TDA_TUTORIAL.    
+- [TDA 튜토리얼](https://velog.io/@shlee0125/TDA-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%9C%84%EC%83%81%EC%88%98%ED%95%99%EC%A0%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9DTDA%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9DMachine-Learning-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1)
+
+
+### TDA-intro
+- [TDA-Mapper](https://hiddenbeginner.github.io/tda/2020/08/25/Mapper1.html)
+
+- [Topological Data Analysis in Python : a simple introduction](https://medium.com/@daymler.ofarrill/topological-data-analysis-in-python-a-simple-introduction-ff4221defdcb)
+
+- [Topological Data Analysis(TDA)| An Introduction](https://www.youtube.com/watch?v=fpL5fMmJHqk&list=PLzERW_Obpmv_UW7RgbZW4Ebhw87BcoXc7)
+
+
+
+
 
 ## [Reference]
 
@@ -7,10 +25,6 @@
 - [wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis)
 
 
-
-
-
-- [TDA 튜토리얼](https://velog.io/@shlee0125/TDA-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%9C%84%EC%83%81%EC%88%98%ED%95%99%EC%A0%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9DTDA%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9DMachine-Learning-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1)
 
 *source code : https://github.com/SHlee-TDA/PNU_TDA_TUTORIAL
 
