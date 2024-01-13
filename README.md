@@ -1,6 +1,9 @@
 # TDA(Topological data analysis)
 
-# TDA-intro
+
+Usage( )
+``````
+
 
 ### PNU_TDA_TUTORIAL.   
 
@@ -24,21 +27,15 @@
 
 - [wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis)
 
-
-
 *source code : https://github.com/SHlee-TDA/PNU_TDA_TUTORIAL
 
+- [TDA숫자들을 기하학적으로 분석해보자. 근데 이제 호몰로지를 결들인....](https://dacon.io/en/codeshare/3733)
 
-
-- [TDA] 숫자들을 기하학적으로 분석해보자. 근데 이제 호몰로지를 결들인....
-https://dacon.io/en/codeshare/3733   
 
 
 #### [Youtube]
 
-- Topological Data Analysis (TDA) | An introduction
-https://www.youtube.com/watch?v=fpL5fMmJHqk&list=PLmtb_Cn_khkG6driNB2C_RUYCGIGCy_C0&index=3&t=12s
+- [Topological Data Analysis (TDA) | An introduction](https://www.youtube.com/watch?v=fpL5fMmJHqk&list=PLmtb_Cn_khkG6driNB2C_RUYCGIGCy_C0&index=3&t=12s)
 
-- Topological Data Analysis for Machine Learning ! : Algebraic Topology
-https://www.youtube.com/watch?v=gVq_xXnwV-4&list=PLmtb_Cn_khkE8vfzDuZcP4EF9Hi_fnwhC&index=1
 
+- [Topological Data Analysis for Machine Learning ! : Algebraic Topology](https://www.youtube.com/watch?v=gVq_xXnwV-4&list=PLmtb_Cn_khkE8vfzDuZcP4EF9Hi_fnwhC&index=1)
